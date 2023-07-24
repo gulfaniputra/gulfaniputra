@@ -1,4 +1,6 @@
-### Hi there 👋
+## `$ whoami` 
+
+Gulfani Putra ([@gulfaniputra](https://github.com/gulfaniputra))
 
 <!--
 **gulfaniputra/gulfaniputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## `$ finger gulfaniputra` 
+
+Working towards becoming an independent, remote, & asynchronous JavaScript developer within a collaborative team environment.
