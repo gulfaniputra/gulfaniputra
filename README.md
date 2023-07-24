@@ -1,6 +1,6 @@
 ## `$ whoami` 
 
-Gulfani Putra ([@gulfaniputra](https://github.com/gulfaniputra))
+Gulfani Putra ([@gulfaniputra](https://github.com/gulfaniputra)).
 
 <!--
 **gulfaniputra/gulfaniputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
