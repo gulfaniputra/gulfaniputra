@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ## `$ finger gulfaniputra` 
 
-Working towards becoming an independent, remote, & asynchronous JavaScript developer within a collaborative team environment.
+Working towards becoming an independent, remote, & asynchronous JavaScript developer in a collaborative team environment.
