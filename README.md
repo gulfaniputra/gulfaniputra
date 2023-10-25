@@ -19,6 +19,12 @@ Here are some ideas to get you started:
 
 ## `$ finger gulfaniputra` 
 
-An independent, remote, & asynchronous JavaScript developer in a collaborative team environment
+An independent web developer in a collaborative team environment
+
+Progress: [...%] [#...]
+
+## `$ which stack`
+
+Laravel, Vue, Inertia, & Bootstrap
 
 Progress: [...%] [#...]
