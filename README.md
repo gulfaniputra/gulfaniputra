@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
 ## `$ finger gulfaniputra` 
 
-An independent web developer in a collaborative team environment
+An independent web developer in an Agile team environment
 
 Progress: [...%] [#...]
 
 ## `$ which stack`
 
-Laravel, Vue, Inertia, & Bootstrap
+Laravel, MySQL, Vue, Bootstrap
 
 Progress: [...%] [#...]
