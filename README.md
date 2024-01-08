@@ -1,7 +1,3 @@
-## `$ whoami` 
-
-Gulfani Putra
-
 <!--
 **gulfaniputra/gulfaniputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,13 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## `$ finger gulfaniputra` 
+## `$ name` 
+
+Gulfani Putra
+
+## `$ about` 
 
 An independent web developer in an Agile team environment
 
 Progress: [...%] [#...]
 
-## `$ which stack`
+## `$ stack`
 
 Laravel, MySQL, Vue, Bootstrap
 
