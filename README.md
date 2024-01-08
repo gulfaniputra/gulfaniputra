@@ -25,6 +25,6 @@ Progress: [...%] [#...]
 
 ## `$ stack`
 
-Laravel, MySQL, Vue, Bootstrap
+Laravel, jQuery, & Bootstrap
 
 Progress: [...%] [#...]
