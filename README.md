@@ -15,13 +15,17 @@ Here are some ideas to get you started:
 
 ## `$ name` 
 
-Gulfani Putra
+Gulfani Wardana Putra
 
-## `$ about` 
+## `$ bio` 
 
 An independent web developer in an Agile team environment
 
 Progress: [...%] [#...]
+
+## `$ location` 
+
+Balikpapan, East Kalimantan, Indonesia
 
 ## `$ stack`
 
