@@ -13,22 +13,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## `$ name` 
+### Name
 
 Gulfani Wardana Putra
 
-## `$ bio` 
+### Occupation
 
-An independent web developer in an Agile team environment
+Web developer
 
-Progress: [...%] [#...]
-
-## `$ location` 
+### Location
 
 Balikpapan, East Kalimantan, Indonesia
 
-## `$ stack`
+### Email
 
-Laravel, jQuery, & Bootstrap
+Retrieve it from my profile with a logged in GitHub account
 
-Progress: [...%] [#...]
+### Donate
+
+Support me to buy used or refurbished laptop and smartphone to jump-start my career in web development through:
+
+- [Buy Me a Coffee](https://www.buymeacoffee.com/gulfaniputra)
+- [Trakteer](https://trakteer.id/gulfaniputra/tip)
+- [Saweria](https://saweria.co/gulfaniputra)
+- [Nih buat jajan](https://www.nihbuatjajan.com/gulfaniputra)
