@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Gulfani Wardana Putra
 
-### Occupation
+### About
 
 Web developer
 
@@ -25,7 +25,7 @@ Web developer
 
 Balikpapan, East Kalimantan, Indonesia
 
-### Email
+### Contact
 
 Retrieve it from my profile with a logged in GitHub account
 
