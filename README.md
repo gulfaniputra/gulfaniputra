@@ -29,6 +29,10 @@ Balikpapan, East Kalimantan, Indonesia
 
 Retrieve it from my profile with a logged in GitHub account
 
+### Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulfaniputra)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Donate
 
 Support me to buy used or refurbished laptop and smartphone to jump-start my career in web development through:
