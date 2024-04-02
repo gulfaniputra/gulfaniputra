@@ -24,7 +24,7 @@ Retrieve it from my profile with a logged in GitHub account
 
 ### Donate
 
-Support me to buy used or refurbished laptop and smartphone to jump-start my career in web development through:
+Support me to buy used laptop and smartphone to jump-start my career in web development through:
 
 - [Buy Me a Coffee](https://www.buymeacoffee.com/gulfaniputra)
 - [Trakteer](https://trakteer.id/gulfaniputra/tip)
