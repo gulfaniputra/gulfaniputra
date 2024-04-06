@@ -16,7 +16,7 @@ Balikpapan, East Kalimantan, Indonesia
 
 ### Contact
 
-Retrieve it from my profile with a logged in GitHub account
+Email is on my profile
 
 ### Stats
 
@@ -24,9 +24,8 @@ Retrieve it from my profile with a logged in GitHub account
 
 ### Donate
 
-Support me to buy used laptop and smartphone to jump-start my career in web development through:
+Support my fledgling web development career via:
 
-- [Buy Me a Coffee](https://www.buymeacoffee.com/gulfaniputra)
 - [Trakteer](https://trakteer.id/gulfaniputra)
 - [Saweria](https://saweria.co/gulfaniputra)
 - [Nih buat jajan](https://www.nihbuatjajan.com/gulfaniputra)
