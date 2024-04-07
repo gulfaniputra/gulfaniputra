@@ -28,4 +28,4 @@ Support my fledgling web development career via:
 
 - [Trakteer](https://trakteer.id/gulfaniputra)
 - [Saweria](https://saweria.co/gulfaniputra)
-- [Nih buat jajan](https://www.nihbuatjajan.com/gulfaniputra)
+- [Nih Buat Jajan](https://www.nihbuatjajan.com/gulfaniputra)
