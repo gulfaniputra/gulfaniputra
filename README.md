@@ -8,7 +8,7 @@ Web developer
 
 ### Stack
 
-Next.js
+ES6 & React
 
 ### Location
 
@@ -16,7 +16,7 @@ Balikpapan, East Kalimantan, Indonesia
 
 ### Contact
 
-Email is on my profile
+My email is on my profile
 
 ### Stats
 
@@ -27,5 +27,5 @@ Email is on my profile
 Support my fledgling web development career via:
 
 - [Trakteer](https://trakteer.id/gulfaniputra)
-- [Saweria](https://saweria.co/gulfaniputra)
 - [Nih Buat Jajan](https://www.nihbuatjajan.com/gulfaniputra)
+- [Saweria](https://saweria.co/gulfaniputra)
