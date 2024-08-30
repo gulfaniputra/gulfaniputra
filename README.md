@@ -6,17 +6,13 @@ Gulfani Wardana Putra
 
 Web developer
 
-### Stack
-
-ES6 & React
-
 ### Location
 
 Balikpapan, East Kalimantan, Indonesia
 
 ### Contact
 
-My email is on my profile
+My email is on my left profile
 
 ### Stats
 
