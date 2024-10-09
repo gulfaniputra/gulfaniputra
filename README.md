@@ -12,9 +12,9 @@ Balikpapan, East Kalimantan, Indonesia
 
 ### Contact
 
-My email is on my left profile
+My email is on the left profile
 
-### Stats
+### Statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulfaniputra)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -27,5 +27,5 @@ My email is on my left profile
 Support my fledgling web development career via:
 
 - [Trakteer](https://trakteer.id/gulfaniputra)
-- [Nih Buat Jajan](https://www.nihbuatjajan.com/gulfaniputra)
 - [Saweria](https://saweria.co/gulfaniputra)
+- [Nih Buat Jajan](https://www.nihbuatjajan.com/gulfaniputra)
