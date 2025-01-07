@@ -4,7 +4,7 @@ Gulfani Wardana Putra
 
 ### About
 
-Web developer
+web developer
 
 ### Location
 
@@ -12,11 +12,30 @@ Balikpapan, East Kalimantan, Indonesia
 
 ### Contact
 
-My email is on the left profile
+my email is on the left profile
 
 ### Statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulfaniputra)](https://github.com/anuraghazra/github-readme-stats)
+
+### Current Status
+
+I'm creating a vanilla JavaScript todo application: ['todo-vanillajs'](https://github.com/gulfaniputra/todo-vanillajs) (`main` branch). 
+
+The objective is to learn ES6+ by implementing professional-grade web application development methodologies and toolings.
+
+This is part of my ongoing effort to get a web development job:
+
+- my web development's [roadmap](https://gist.github.com/gulfaniputra/75b6b13f6d25b6aafd7cbcb236ab35da)
+- 'todo-vanillajs':
+  - [plan](https://gist.github.com/gulfaniputra/1ae2b68115cf8df5a614dbfe42e85ed6)
+  - [demo](https://gulfaniputra.github.io/todo-vanillajs/) (`add task` feature branch)
+  - repos:
+    - `main` [branch](https://github.com/gulfaniputra/todo-vanillajs)
+    - `add task` [feature branch](https://github.com/gulfaniputra/todo-vanillajs/tree/add-task)
+  - commits:
+    - `main` [branch](https://github.com/gulfaniputra/todo-vanillajs/commits/main)
+    - `add task` [feature branch](https://github.com/gulfaniputra/todo-vanillajs/commits/add-task)
 
 ### Stack Overflow
 
