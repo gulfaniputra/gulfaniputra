@@ -10,32 +10,28 @@ web developer
 
 Balikpapan, East Kalimantan, Indonesia
 
-### Contact
-
-my email is on the left profile
-
 ### Statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulfaniputra)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Current Status
 
-I'm creating a vanilla JavaScript todo application: ['todo-vanillajs'](https://github.com/gulfaniputra/todo-vanillajs) (`main` branch). 
+I'm creating a vanilla JS todo app: ['todo-vanillajs'](https://github.com/gulfaniputra/todo-vanillajs) (`main` branch). 
 
-The objective is to learn ES6+ by implementing professional-grade web application development methodologies and toolings.
+The objective is to learn ES6+ by implementing professional-grade web app development methodologies & toolings.
 
-This is part of my ongoing effort to get a web development job:
+This is part of my ongoing effort to get a web dev job:
 
-- my web development's [roadmap](https://gist.github.com/gulfaniputra/75b6b13f6d25b6aafd7cbcb236ab35da)
+- [roadmap](https://gist.github.com/gulfaniputra/75b6b13f6d25b6aafd7cbcb236ab35da)
 - 'todo-vanillajs':
   - [plan](https://gist.github.com/gulfaniputra/1ae2b68115cf8df5a614dbfe42e85ed6)
-  - [demo](https://gulfaniputra.github.io/todo-vanillajs/) (`add task` feature branch)
+  - [demo](https://gulfaniputra.github.io/todo-vanillajs/) (`add-task` feature branch)
   - repos:
     - `main` [branch](https://github.com/gulfaniputra/todo-vanillajs)
-    - `add task` [feature branch](https://github.com/gulfaniputra/todo-vanillajs/tree/add-task)
+    - `add-task` [feature branch](https://github.com/gulfaniputra/todo-vanillajs/tree/add-task)
   - commits:
     - `main` [branch](https://github.com/gulfaniputra/todo-vanillajs/commits/main)
-    - `add task` [feature branch](https://github.com/gulfaniputra/todo-vanillajs/commits/add-task)
+    - `add-task` [feature branch](https://github.com/gulfaniputra/todo-vanillajs/commits/add-task)
 
 ### Stack Overflow
 
@@ -46,5 +42,9 @@ This is part of my ongoing effort to get a web development job:
 Support my fledgling web development career via:
 
 - [Trakteer](https://trakteer.id/gulfaniputra)
-- [Saweria](https://saweria.co/gulfaniputra)
 - [Nih Buat Jajan](https://www.nihbuatjajan.com/gulfaniputra)
+- [Saweria](https://saweria.co/gulfaniputra)
+
+### Contact
+
+My email is on the left profile.
