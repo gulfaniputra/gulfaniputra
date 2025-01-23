@@ -25,13 +25,13 @@ This is part of my ongoing effort to get a web dev job:
 - [roadmap](https://gist.github.com/gulfaniputra/75b6b13f6d25b6aafd7cbcb236ab35da)
 - 'todo-vanillajs':
   - [plan](https://gist.github.com/gulfaniputra/1ae2b68115cf8df5a614dbfe42e85ed6)
-  - [demo](https://gulfaniputra.github.io/todo-vanillajs/) (`add-task` feature branch)
+  - [demo](https://gulfaniputra.github.io/todo-vanillajs/) (`add-checkbox` feature branch)
   - repos:
     - `main` [branch](https://github.com/gulfaniputra/todo-vanillajs)
-    - `add-task` [feature branch](https://github.com/gulfaniputra/todo-vanillajs/tree/add-task)
+    - `add-checkbox` [feature branch](https://github.com/gulfaniputra/todo-vanillajs/tree/add-checkbox)
   - commits:
     - `main` [branch](https://github.com/gulfaniputra/todo-vanillajs/commits/main)
-    - `add-task` [feature branch](https://github.com/gulfaniputra/todo-vanillajs/commits/add-task)
+    - `add-checkbox` [feature branch](https://github.com/gulfaniputra/todo-vanillajs/commits/add-checkbox)
 
 ### Stack Overflow
 
