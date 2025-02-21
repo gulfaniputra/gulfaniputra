@@ -39,7 +39,7 @@ This is part of my ongoing effort to get a web dev job:
 
 ### Donate
 
-Support my fledgling web deve career via:
+Support my fledgling web dev career via:
 
 - [Trakteer](https://trakteer.id/gulfaniputra)
 - [Nih Buat Jajan](https://www.nihbuatjajan.com/gulfaniputra)
