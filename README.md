@@ -4,7 +4,7 @@ Gulfani Wardana Putra
 
 ### About
 
-web developer
+Web developer
 
 ### Location
 
@@ -25,13 +25,13 @@ This is part of my ongoing effort to get a web dev job:
 - [roadmap](https://gist.github.com/gulfaniputra/75b6b13f6d25b6aafd7cbcb236ab35da)
 - 'todo-vanillajs':
   - [plan](https://gist.github.com/gulfaniputra/1ae2b68115cf8df5a614dbfe42e85ed6)
-  - [demo](https://gulfaniputra.github.io/todo-vanillajs/) (`add-checkbox` feature branch)
+  - [demo](https://gulfaniputra.github.io/todo-vanillajs/) (`edit-task` feature branch)
   - repos:
     - `main` [branch](https://github.com/gulfaniputra/todo-vanillajs)
-    - `add-checkbox` [feature branch](https://github.com/gulfaniputra/todo-vanillajs/tree/add-checkbox)
+    - `edit-task` [feature branch](https://github.com/gulfaniputra/todo-vanillajs/tree/edit-task)
   - commits:
     - `main` [branch](https://github.com/gulfaniputra/todo-vanillajs/commits/main)
-    - `add-checkbox` [feature branch](https://github.com/gulfaniputra/todo-vanillajs/commits/add-checkbox)
+    - `edit-task` [feature branch](https://github.com/gulfaniputra/todo-vanillajs/commits/edit-task)
 
 ### Stack Overflow
 
@@ -39,7 +39,7 @@ This is part of my ongoing effort to get a web dev job:
 
 ### Donate
 
-Support my fledgling web development career via:
+Support my fledgling web deve career via:
 
 - [Trakteer](https://trakteer.id/gulfaniputra)
 - [Nih Buat Jajan](https://www.nihbuatjajan.com/gulfaniputra)
