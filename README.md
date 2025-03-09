@@ -16,7 +16,7 @@ Balikpapan, East Kalimantan, Indonesia
 
 ### Current Status
 
-I'm creating a vanilla JS todo app: ['todo-vanillajs'](https://github.com/gulfaniputra/todo-vanillajs) (`main` branch). 
+I'm creating a vanilla JS todo app: ['todo-vanillajs'](https://github.com/gulfaniputra/todo-vanillajs). 
 
 The objective is to learn ES6+ by implementing professional-grade web app development methodologies & toolings.
 
@@ -25,13 +25,9 @@ This is part of my ongoing effort to get a web dev job:
 - [roadmap](https://gist.github.com/gulfaniputra/75b6b13f6d25b6aafd7cbcb236ab35da)
 - 'todo-vanillajs':
   - [plan](https://gist.github.com/gulfaniputra/1ae2b68115cf8df5a614dbfe42e85ed6)
-  - [demo](https://gulfaniputra.github.io/todo-vanillajs/) (`edit-task` feature branch)
-  - repos:
-    - `main` [branch](https://github.com/gulfaniputra/todo-vanillajs)
-    - `edit-task` [feature branch](https://github.com/gulfaniputra/todo-vanillajs/tree/edit-task)
-  - commits:
-    - `main` [branch](https://github.com/gulfaniputra/todo-vanillajs/commits/main)
-    - `edit-task` [feature branch](https://github.com/gulfaniputra/todo-vanillajs/commits/edit-task)
+  - [demo](https://gulfaniputra.github.io/todo-vanillajs/)
+  - [repo](https://github.com/gulfaniputra/todo-vanillajs)
+  - [commits](https://github.com/gulfaniputra/todo-vanillajs/commits/main)
 
 ### Stack Overflow
 
