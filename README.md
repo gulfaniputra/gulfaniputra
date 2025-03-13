@@ -29,6 +29,10 @@ This is part of my ongoing effort to get a web dev job:
   - [repo](https://github.com/gulfaniputra/todo-vanillajs)
   - [commits](https://github.com/gulfaniputra/todo-vanillajs/commits/main)
 
+### LinkedIn
+
+[View profile](https://www.linkedin.com/in/gulfani-putra-04b254356/)
+
 ### Stack Overflow
 
 <a href="https://stackoverflow.com/users/22807518/gulfani-putra"><img src="https://stackoverflow.com/users/flair/22807518.png" width="208" height="58" alt="profile for Gulfani Putra at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Gulfani Putra at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
