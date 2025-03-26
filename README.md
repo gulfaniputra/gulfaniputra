@@ -18,16 +18,16 @@ Balikpapan, East Kalimantan, Indonesia
 
 I'm creating a vanilla JS todo app: ['todo-vanillajs'](https://github.com/gulfaniputra/todo-vanillajs). 
 
-The objective is to learn ES6+ by implementing professional-grade web app development methodologies & toolings.
+The objective is to learn ES6+ by implementing professional-grade web app development methodologies and toolings.
 
 This is part of my ongoing effort to get a web dev job:
 
-- [roadmap](https://gist.github.com/gulfaniputra/75b6b13f6d25b6aafd7cbcb236ab35da)
+- [Roadmap](https://gist.github.com/gulfaniputra/75b6b13f6d25b6aafd7cbcb236ab35da)
 - 'todo-vanillajs':
-  - [plan](https://gist.github.com/gulfaniputra/1ae2b68115cf8df5a614dbfe42e85ed6)
-  - [demo](https://gulfaniputra.github.io/todo-vanillajs/)
-  - [repo](https://github.com/gulfaniputra/todo-vanillajs)
-  - [commits](https://github.com/gulfaniputra/todo-vanillajs/commits/main)
+  - [Plan](https://gist.github.com/gulfaniputra/1ae2b68115cf8df5a614dbfe42e85ed6)
+  - [Demo](https://gulfaniputra.github.io/todo-vanillajs/)
+  - [Repo](https://github.com/gulfaniputra/todo-vanillajs)
+  - [Commits](https://github.com/gulfaniputra/todo-vanillajs/commits/main)
 
 ### LinkedIn
 
