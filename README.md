@@ -1,24 +1,18 @@
 ### Name
 
-Gulfani Wardana Putra
+Gulfani Putra
 
 ### About
 
-Web developer
+Web Developer
 
 ### Location
 
 Balikpapan, East Kalimantan, Indonesia
 
-### Statistics
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulfaniputra)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Current Status
 
 I'm creating a vanilla JS todo app: ['todo-vanillajs'](https://github.com/gulfaniputra/todo-vanillajs). 
-
-The objective is to learn ES6+ by implementing professional-grade web app development methodologies and toolings.
 
 This is part of my ongoing effort to get a web dev job:
 
@@ -28,6 +22,14 @@ This is part of my ongoing effort to get a web dev job:
   - [Demo](https://gulfaniputra.github.io/todo-vanillajs/)
   - [Repo](https://github.com/gulfaniputra/todo-vanillajs)
   - [Commits](https://github.com/gulfaniputra/todo-vanillajs/commits/main)
+
+### Contact
+
+My email is on the left profile.
+
+### Statistics
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulfaniputra)](https://github.com/anuraghazra/github-readme-stats)
 
 ### LinkedIn
 
@@ -44,7 +46,3 @@ Support my fledgling web dev career via:
 - [Trakteer](https://trakteer.id/gulfaniputra)
 - [Nih Buat Jajan](https://www.nihbuatjajan.com/gulfaniputra)
 - [Saweria](https://saweria.co/gulfaniputra)
-
-### Contact
-
-My email is on the left profile.
