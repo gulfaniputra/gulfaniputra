@@ -4,7 +4,13 @@ Gulfani Putra
 
 ### About
 
-Web Developer
+- Now: 
+  - A Web Developer-in-training.
+- Goals:
+  - An expert in JavaScript/TypeScript & scalable web application development.
+  - A writer of maintainable, performant, & accessible code following JavaScript/TypeScript best practices.
+  - An imperative-functional programmer who prioritize clarity & portability over unnecessary decorations.
+  - An independent, remote, & asynchronous software engineer in a collaborative team environment.
 
 ### Location
 
@@ -12,16 +18,19 @@ Balikpapan, East Kalimantan, Indonesia
 
 ### Current Status
 
-I'm creating a vanilla JS todo app: ['todo-vanillajs'](https://github.com/gulfaniputra/todo-vanillajs). 
+- This is part of my ongoing effort to get a web dev job:
+  - I'm creating a vanilla JavaScript todo app: ['todo-vanillajs'](https://github.com/gulfaniputra/todo-vanillajs). 
+    - [Roadmap](https://gist.github.com/gulfaniputra/75b6b13f6d25b6aafd7cbcb236ab35da)
+    - 'todo-vanillajs':
+      - [Plan](https://gist.github.com/gulfaniputra/1ae2b68115cf8df5a614dbfe42e85ed6)
+      - [Demo](https://gulfaniputra.github.io/todo-vanillajs/)
+      - [Repo](https://github.com/gulfaniputra/todo-vanillajs)
+      - [Commits](https://github.com/gulfaniputra/todo-vanillajs/commits/main)
 
-This is part of my ongoing effort to get a web dev job:
-
-- [Roadmap](https://gist.github.com/gulfaniputra/75b6b13f6d25b6aafd7cbcb236ab35da)
-- 'todo-vanillajs':
-  - [Plan](https://gist.github.com/gulfaniputra/1ae2b68115cf8df5a614dbfe42e85ed6)
-  - [Demo](https://gulfaniputra.github.io/todo-vanillajs/)
-  - [Repo](https://github.com/gulfaniputra/todo-vanillajs)
-  - [Commits](https://github.com/gulfaniputra/todo-vanillajs/commits/main)
+- This is part of my proactive approach to continuous learning & upskilling:
+  - I'm learning TypeScript from [_Total TypeScript: Essentials_](https://www.totaltypescript.com/books/total-typescript-essentials):
+    - [Repo](https://github.com/gulfaniputra/total-ts-essentials)
+    - [Commits](https://github.com/gulfaniputra/total-ts-essentials/commits/main)
 
 ### Contact
 
