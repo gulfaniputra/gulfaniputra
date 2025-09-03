@@ -5,7 +5,7 @@ Gulfani Wardana Putra
 ### About
 
 - Now: 
-  - A Web Developer-in-training.
+  - A Web Developer-in-training focusing on JavaScript-driven stacks.
 - Future:
   - An expert in JavaScript/TypeScript & scalable web application development.
   - A writer of maintainable, performant, & accessible code following JavaScript/TypeScript best practices.
