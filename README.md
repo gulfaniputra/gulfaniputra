@@ -31,7 +31,7 @@ Balikpapan, East Kalimantan, Indonesia
   - I'm learning web development from Dr. Axel Rauschmayer's [_Learning web development_](https://2ality.com/2025/08/learning-web-dev-toc.html):
     - [repo](https://github.com/gulfaniputra/learning-web-dev-code)
   - I'm learning TypeScript from Matt Pocock's [_Total TypeScript: Essentials_](https://www.totaltypescript.com/books/total-typescript-essentials):
-    - [repo](https://github.com/gulfaniputra/total-ts-essentials)
+    - [repo](https://github.com/gulfaniputra/total-typescript-book)
 
 ### Contact
 
