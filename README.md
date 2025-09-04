@@ -7,9 +7,9 @@ Gulfani Wardana Putra
 - Now: 
   - A Web Developer-in-training focusing on JavaScript-driven stacks.
 - Future:
-  - An expert in JavaScript/TypeScript & scalable web application development.
-  - A writer of maintainable, performant, & accessible code following JavaScript/TypeScript best practices.
-  - An imperative-functional programmer who prioritize clarity & portability over unnecessary decorations.
+  - An expert in TypeScript & scalable web application development.
+  - A writer of maintainable, performant, & accessible code following TypeScript best practices.
+  - An imperative-functional programmer prioritizing clarity & portability over unnecessary decorations.
   - An independent, remote, & asynchronous Software Engineer in a collaborative team environment.
 
 ### Location
@@ -29,11 +29,9 @@ Balikpapan, East Kalimantan, Indonesia
 
 - This is part of my proactive approach to reskilling, upskilling & continuous learning:
   - I'm learning web development from Dr. Axel Rauschmayer's [_Learning web development_](https://2ality.com/2025/08/learning-web-dev-toc.html):
-    - [repo](https://github.com/gulfaniputra/learning-web-dev)
-    - [commits](https://github.com/gulfaniputra/learning-web-dev/commits/main)
+    - [repo](https://github.com/gulfaniputra/learning-web-dev-code)
   - I'm learning TypeScript from Matt Pocock's [_Total TypeScript: Essentials_](https://www.totaltypescript.com/books/total-typescript-essentials):
     - [repo](https://github.com/gulfaniputra/total-ts-essentials)
-    - [commits](https://github.com/gulfaniputra/total-ts-essentials/commits/main)
 
 ### Contact
 
