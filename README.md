@@ -19,13 +19,17 @@ Balikpapan, East Kalimantan, Indonesia
 ### Current Status
 
 - This is part of my ongoing effort to secure a web development position:
+  - [Roadmap](https://gist.github.com/gulfaniputra/75b6b13f6d25b6aafd7cbcb236ab35da)
   - I'm creating a vanilla JavaScript todo app: ['todo-vanillajs'](https://github.com/gulfaniputra/todo-vanillajs). 
-    - [roadmap](https://gist.github.com/gulfaniputra/75b6b13f6d25b6aafd7cbcb236ab35da)
-    - 'todo-vanillajs':
-      - [plan](https://gist.github.com/gulfaniputra/1ae2b68115cf8df5a614dbfe42e85ed6)
-      - [demo](https://gulfaniputra.github.io/todo-vanillajs/)
-      - [repo](https://github.com/gulfaniputra/todo-vanillajs)
-      - [commits](https://github.com/gulfaniputra/todo-vanillajs/commits/main)
+    - [Plan](https://gist.github.com/gulfaniputra/1ae2b68115cf8df5a614dbfe42e85ed6)
+    - [Demo](https://gulfaniputra.github.io/todo-vanillajs/)
+    - [Repo](https://github.com/gulfaniputra/todo-vanillajs)
+    - [Commits](https://github.com/gulfaniputra/todo-vanillajs/commits/main)
+  - I'm creating a TypeScript traffic app with GitHub Copilot: ['mymacet-app'](https://github.com/gulfaniputra/mymacet-app). 
+    - [Plan](https://gist.github.com/gulfaniputra/2c38d9989444d60f4e7b3f315a34bef5)
+    - Demo (`// In progress...`)
+    - [Repo](https://github.com/gulfaniputra/mymacet-app)
+    - [Commits](https://github.com/gulfaniputra/mymacet-app/commits/main)
 
 - This is part of my proactive approach to reskilling, upskilling & continuous learning:
   - I'm learning web development from Dr. Axel Rauschmayer's [_Learning web development_](https://2ality.com/2025/08/learning-web-dev-toc.html) ([repo](https://github.com/gulfaniputra/learning-web-dev-code)).
