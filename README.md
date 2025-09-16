@@ -25,6 +25,11 @@ Balikpapan, East Kalimantan, Indonesia
     - [Demo](https://gulfaniputra.github.io/todo-vanillajs/)
     - [Repo](https://github.com/gulfaniputra/todo-vanillajs)
     - [Commits](https://github.com/gulfaniputra/todo-vanillajs/commits/main)
+  - I'm creating a TypeScript gasoline price tracker app with Express.js: ['myminyak-app'](https://github.com/gulfaniputra/myminyak-app). 
+    - [Plan](https://gist.github.com/gulfaniputra/e78a95754ba1cd471f13c02822484227)
+    - Demo (`// In progress...`)
+    - [Repo](https://github.com/gulfaniputra/myminyak-app)
+    - [Commits](https://github.com/gulfaniputra/myminyak-app/commits/main)
   - I'm creating a TypeScript traffic app with GitHub Copilot: ['mymacet-app'](https://github.com/gulfaniputra/mymacet-app). 
     - [Plan](https://gist.github.com/gulfaniputra/2c38d9989444d60f4e7b3f315a34bef5)
     - Demo (`// In progress...`)
