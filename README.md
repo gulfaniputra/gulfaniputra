@@ -25,7 +25,7 @@ Balikpapan, East Kalimantan, Indonesia
     - [Demo](https://gulfaniputra.github.io/todo-vanillajs/)
     - [Repo](https://github.com/gulfaniputra/todo-vanillajs)
     - [Commits](https://github.com/gulfaniputra/todo-vanillajs/commits/main)
-  - I'm creating a TypeScript gasoline price tracker app with Express.js: ['myminyak-app'](https://github.com/gulfaniputra/myminyak-app). 
+  - I'm creating a TypeScript gasoline app with Express.js: ['myminyak-app'](https://github.com/gulfaniputra/myminyak-app). 
     - [Plan](https://gist.github.com/gulfaniputra/e78a95754ba1cd471f13c02822484227)
     - Demo (`// In progress...`)
     - [Repo](https://github.com/gulfaniputra/myminyak-app)
@@ -37,9 +37,9 @@ Balikpapan, East Kalimantan, Indonesia
     - [Commits](https://github.com/gulfaniputra/mymacet-app/commits/main)
 
 - This is part of my proactive approach to reskilling, upskilling & continuous learning:
-  - I'm learning web development from Dr. Axel Rauschmayer's [_Learning web development_](https://2ality.com/2025/08/learning-web-dev-toc.html) ([repo](https://github.com/gulfaniputra/learning-web-dev-code)).
-  - I'm learning TypeScript from Matt Pocock's [_Total TypeScript: Essentials_](https://www.totaltypescript.com/books/total-typescript-essentials) ([repo](https://github.com/gulfaniputra/total-typescript-book)).
-  - I'm learning LLM-assisted coding from Simon Willison's [_Here’s how I use LLMs to help me write code_](https://simonwillison.net/2025/Mar/11/using-llms-for-code/) ([repo](https://github.com/gulfaniputra/tools)).
+  - I'm learning web development from Dr. Axel Rauschmayer's [_Learning Web Development_](https://2ality.com/2025/08/learning-web-dev-toc.html) ([Repo](https://github.com/gulfaniputra/learning-web-dev-code)).
+  - I'm learning TypeScript from Matt Pocock's [_Total TypeScript: Essentials_](https://www.totaltypescript.com/books/total-typescript-essentials) ([Repo](https://github.com/gulfaniputra/total-typescript-book)).
+  - I'm learning LLM-assisted coding from Simon Willison's [_Here’s How I Use LLMs To Help Me Write Code_](https://simonwillison.net/2025/Mar/11/using-llms-for-code/) ([Repo](https://github.com/gulfaniputra/tools)).
 
 ### Contact
 
