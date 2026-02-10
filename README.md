@@ -5,12 +5,11 @@ Gulfani Wardana Putra
 ### About
 
 - Now: 
-  - A Web Developer-in-training focusing on JavaScript-driven stacks.
+  - Web Developer-in-training focused on TypeScript-driven stacks.
 - Future:
-  - An expert in TypeScript & scalable web application development.
-  - A writer of maintainable, performant, & accessible code following TypeScript best practices.
-  - An imperative-functional programmer prioritizing clarity & portability over unnecessary decorations.
-  - An independent, remote, & asynchronous Software Engineer in a collaborative team environment.
+  - TypeScript expert focused on scalable, accessible, and performant web apps.
+  - Imperative-functional programmer prioritizing clarity over fluff.
+  - Independent, remote-first Software Engineer built for asynchronous collaboration.
 
 ### Location
 
