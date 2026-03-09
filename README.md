@@ -5,7 +5,7 @@ Gulfani Wardana Putra
 ### About
 
 - Now: 
-  - Web Developer-in-training focused on TypeScript-driven stacks.
+  - Remote Full-Stack Developer focused on TypeScript-driven stacks.
 - Future:
   - TypeScript expert focused on scalable, accessible, and performant web apps.
   - Imperative-functional programmer prioritizing clarity over fluff.
@@ -22,10 +22,6 @@ My email is on the left profile.
 ### Statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulfaniputra)](https://github.com/anuraghazra/github-readme-stats)
-
-### LinkedIn
-
-[View profile](https://www.linkedin.com/in/gulfani-putra-04b254356/)
 
 ### Stack Overflow
 
