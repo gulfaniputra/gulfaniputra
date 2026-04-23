@@ -4,7 +4,7 @@ Gulfani Wardana Putra
 
 ### About
 
-- Now: Type-Safe Serverless Developer
+- Now: Type-Safe Edge-Native Developer
 - Future: High-Stakes Technical Fixer
 
 ### Location
