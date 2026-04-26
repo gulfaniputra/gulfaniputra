@@ -2,10 +2,14 @@
 
 Gulfani Wardana Putra
 
-### About
+### Title
 
-- Now: Type-Safe Edge-Native Developer
-- Future: High-Stakes Technical Fixer
+- **Now**: Type-Safe Edge-Native Developer
+- **Future**: High-Stakes Technical Fixer
+
+### Company
+
+Remote Independent Contractor
 
 ### Location
 
