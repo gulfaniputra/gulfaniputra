@@ -2,6 +2,10 @@
 
 Gulfani Wardana Putra
 
+### About
+
+Full-stack developer specializing in TypeScript/Deno backends and Elm frontends 
+
 ### Title
 
 - **Now**: Type-Safe Edge-Native Developer
