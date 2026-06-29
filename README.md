@@ -4,7 +4,7 @@ Gulfani Wardana Putra
 
 ### About
 
-Full-stack developer specializing in TypeScript/Deno backends and Elm frontends 
+Full-Stack Developer specializing in Hono/Deno backend and Elm frontend development
 
 ### Title
 
